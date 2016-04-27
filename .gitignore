@@ -62,5 +62,3 @@ DerivedDataCache/*
 Plugins/CustomGravityPlugin/Binaries/Win64/UE4Editor-CustomGravityPlugin.pdb
 Content/StarterContent/Architecture/Floor_400x400.uasset
 Plugins/CustomGravityProject/Plugins/CustomGravityPlugin/Binaries/Win64/UE4Editor-CustomGravityPlugin.pdb
-
-Content/Maps/Map_PlaneGeographer.umap
