@@ -12,12 +12,12 @@ https://drive.google.com/open?id=1WKKlufl9QMGma76YAr9AP_sk3zQhBJs9_v2PAFDbnAQ <b
 3. Run the .uproject file
 
 ##OTHERWISE DOWNLOAD THE EXECUTABLE
-<br/>Mac Executable: 
+Mac Executable: 
 <br/>https://drive.google.com/a/asu.edu/folderview?id=0BzE7ZxA-c2ANWmVZX0JFN3ZlVXc&usp=sharing
 
 <br/><br/>PC Executable: 
-<br/>put link here please!
+<br/>put link here please! ******************************************
 
 ##VIDEO
-<br/>https://drive.google.com/open?id=0BzE7ZxA-c2ANemQ0NlVEYW96M2s
+https://drive.google.com/open?id=0BzE7ZxA-c2ANemQ0NlVEYW96M2s
 <br/>(Anyone with an ASU e-mail can view this link)
